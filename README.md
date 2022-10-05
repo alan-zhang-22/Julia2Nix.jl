@@ -11,7 +11,7 @@ Initializing your default shellEnv of julia2nix with flake template
 ### default
 
 ```sh
-nix flake init --template github:JuliaCN/Julia2Nix.jl#templates.devshell
+nix flake init --template github:alan-zhang-22/Julia2Nix.jl#templates.devshell
 ## add these files in your git stage
 nix develop
 ```
@@ -19,7 +19,7 @@ nix develop
 ### jlrs
 
 ```sh
-nix flake init --template github:JuliaCN/Julia2Nix.jl#templates.jlrs
+nix flake init --template github:alan-zhang-22/Julia2Nix.jl#templates.jlrs
 ```
 
 # Attribution
