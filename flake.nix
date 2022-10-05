@@ -94,7 +94,7 @@
         julia-wrapped = self.lib.${system}.julia-wrapped {
           package = self.packages.${system}.julia_18-bin;
           enable = {
-            GR = true;
+            GR = false;
             python =
               inputs.nixpkgs.legacyPackages.${system}.python3.buildEnv.override
               {
