@@ -38,11 +38,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BvLT3k5RT1GRU7FU+GfvvFPyHd/Il6Pruquz+VtUmqU=",
+            "sha256": "sha256-gp1Xq0w+8CxxTjxz1H6X3dfdQiBD+F4eNKBpBVKklPU=",
             "type": "url",
-            "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.8/julia-1.8.2-macaarch64.dmg"
+            "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.8/julia-1.8.3-macaarch64.dmg"
         },
-        "version": "1.8.2-macaarch64.dmg"
+        "version": "1.8.3-macaarch64.dmg"
     },
     "julia-18-release-aarch64-linux": {
         "cargoLocks": null,
@@ -53,11 +53,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+RwnZCj/swrMIJ4Os+cLHJEmDoh+EdS2b1VFCEtTBUc=",
+            "sha256": "sha256-2/+xNKQTtxLUqOHujmZepV7bCGVxmhutmXkSPWQzrMk=",
             "type": "url",
-            "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.8/julia-1.8.2-linux-aarch64.tar.gz"
+            "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.8/julia-1.8.3-linux-aarch64.tar.gz"
         },
-        "version": "1.8.2-linux-aarch64.tar.gz"
+        "version": "1.8.3-linux-aarch64.tar.gz"
     },
     "julia-18-release-x86_64-darwin": {
         "cargoLocks": null,
@@ -68,11 +68,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jh/FeKFT+EFPFG3o8irL7P2S2CCBPDSqDB8n42NinhU=",
+            "sha256": "sha256-FUSQm/Zw5LJ2s2m+qlKZUBc5iWnv2JtxzgesEcljXrE=",
             "type": "url",
-            "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.2-mac64.dmg"
+            "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.3-mac64.dmg"
         },
-        "version": "1.8.2-mac64.dmg"
+        "version": "1.8.3-mac64.dmg"
     },
     "julia-18-release-x86_64-linux": {
         "cargoLocks": null,
@@ -83,11 +83,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZxzzpFC2OnF+Hu3X9pCH44VvAVsuFGy1SSjxmjwF55Y=",
+            "sha256": "sha256-M8Owk1b/qiXTMxw2RrHy1LCZROj5P8uZSVeAG4u/WKk=",
             "type": "url",
-            "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.8/julia-1.8.2-linux-x86_64.tar.gz"
+            "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.8/julia-1.8.3-linux-x86_64.tar.gz"
         },
-        "version": "1.8.2-linux-x86_64.tar.gz"
+        "version": "1.8.3-linux-x86_64.tar.gz"
     },
     "julia-nightly-aarch64-darwin": {
         "cargoLocks": null,
@@ -98,7 +98,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RQ4prC/hE+qMWBe9EgmVaNU3NBt9Eg0L4zIyAHXyJsE=",
+            "sha256": "sha256-4Lt5t8+MRLeElv9tBI2Re6dwekN+Pyt9BqHF+ArmKhc=",
             "type": "url",
             "url": "https://julialangnightlies-s3.julialang.org/bin/macos/aarch64/julia-latest-macos-aarch64.dmg"
         },
@@ -113,7 +113,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xFHhdkGk1u69iAE58VpFiVMQOr0LjXpFYKDYhGM04FQ=",
+            "sha256": "sha256-FpsHC0B5xmJlJE2oeCjg8Dw3kCIytS+5hPURSQbj6ec=",
             "type": "url",
             "url": "https://julialangnightlies-s3.julialang.org/bin/linux/aarch64/julia-latest-linux-aarch64.tar.gz"
         },
@@ -128,7 +128,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PwBHxx2Qjd4AKaxCERGyxe5LOTtAb/zM9pDUGFM13iM=",
+            "sha256": "sha256-D5l3D6VgQcT6LbsOBoR74tePJIbuPpzxS2wtSq77Vu4=",
             "type": "url",
             "url": "https://julialangnightlies-s3.julialang.org/bin/macos/x86_64/julia-latest-macos-x86_64.dmg"
         },
@@ -143,7 +143,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RasDQSrcq62R4HM+RDP2QuFeHbpemWtfnZLU/Y8VR+M=",
+            "sha256": "sha256-tpG5mdjCkIxojMCN7u4dQNzxej5gtqgai/qNRnVW2mA=",
             "type": "url",
             "url": "https://julialangnightlies-s3.julialang.org/bin/linux/x86_64/julia-latest-linux-x86_64.tar.gz"
         },
